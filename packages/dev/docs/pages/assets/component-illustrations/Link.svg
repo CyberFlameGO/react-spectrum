@@ -1,3 +1,1 @@
-<svg style="background:var(--anatomy-gray-100); padding: calc((152px - 17px) / 2) 10px" height="17" viewBox="0 0 35 17">
-  <text id="Link" transform="translate(0 14)" fill="var(--anatomy-gray-700)" font-size="14" font-family="Adobe-Clean" text-decoration="underline"><tspan x="0" y="0">About</tspan></text>
-</svg>
+<svg style="background:var(--anatomy-gray-100);padding:calc((152px - 17px)/2) 10px" height="17" viewBox="0 0 35 17"><text id="Link" fill="var(--anatomy-gray-700)" font-family="Adobe-Clean" font-size="14" text-decoration="underline" transform="translate(0 14)"><tspan x="0" y="0">About</tspan></text></svg>
