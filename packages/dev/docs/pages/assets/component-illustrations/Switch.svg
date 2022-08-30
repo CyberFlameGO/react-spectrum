@@ -1,9 +1,1 @@
-<svg style="background:var(--anatomy-gray-100); padding: 60px 10px" height="32" viewBox="0 0 137 32">
-  <rect id="Placement_Area" data-name="Placement Area" width="136" height="32" fill="red" opacity="0"/>
-  <rect id="Track" width="26" height="14" rx="7" transform="translate(0 9)" fill="var(--anatomy-gray-700)"/>
-  <g id="Handle" transform="translate(12 9)" fill="var(--anatomy-gray-75)" stroke="var(--anatomy-gray-700)" stroke-width="2">
-    <circle cx="7" cy="7" r="7" stroke="none"/>
-    <circle cx="7" cy="7" r="6" fill="none"/>
-  </g>
-  <text id="Text" transform="translate(36 20)" fill="var(--anatomy-gray-800)" font-size="14" font-family="Adobe-Clean"><tspan x="0" y="0">Low power mode</tspan></text>
-</svg>
+<svg style="background:var(--anatomy-gray-100);padding:60px 10px" height="32" viewBox="0 0 137 32"><rect id="Placement_Area" width="136" height="32" fill="red" data-name="Placement Area" opacity="0"/><rect id="Track" width="26" height="14" fill="var(--anatomy-gray-700)" rx="7" transform="translate(0 9)"/><g id="Handle" fill="var(--anatomy-gray-75)" stroke="var(--anatomy-gray-700)" stroke-width="2" transform="translate(12 9)"><circle cx="7" cy="7" r="7" stroke="none"/><circle cx="7" cy="7" r="6" fill="none"/></g><text id="Text" fill="var(--anatomy-gray-800)" font-family="Adobe-Clean" font-size="14" transform="translate(36 20)"><tspan x="0" y="0">Low power mode</tspan></text></svg>
