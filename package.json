@@ -140,7 +140,7 @@
     "parcel": "^2.2.1",
     "patch-package": "^6.2.0",
     "plop": "^2.4.0",
-    "postcss": "^7.0.0",
+    "postcss": "^8.4.31",
     "postcss-calc": "^6.0.0",
     "postcss-custom-properties": "6.3.1",
     "postcss-dir-pseudo-class": "^5.0.0",
